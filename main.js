@@ -21,7 +21,7 @@ var myStyle = {
     "sources": {
 		"pdok":{
 			"type": "vector",
-			"tiles":  ["http://geodata.nationaalgeoregister.nl/beta/topotiles/{z}/{x}/{y}.pbf"]
+			"tiles":  ["https://geodata.nationaalgeoregister.nl/beta/topotiles/{z}/{x}/{y}.pbf"]
 		}
 	},
     "layers":[ 
